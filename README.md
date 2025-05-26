@@ -1,4 +1,4 @@
-# 🔐 Acesso - KYC Token Gating Smart Contract
+# Acesso - KYC Token Gating Smart Contract
 
 Acesso is a Solidity smart contract designed to enable token gating based on KYC (Know Your Customer) verification. Only verified users can access restricted features, ensuring compliance and trust on your dApp.
 
